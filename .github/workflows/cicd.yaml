@@ -1,4 +1,4 @@
-name: CICD
+name: Pelstix recreate CICD
 
 on:
   push:
