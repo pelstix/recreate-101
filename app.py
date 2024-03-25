@@ -22,5 +22,5 @@ def get_reverse_ip_address():
     return f'Here you go, your reversed public IP: {reversed_public_ip}'
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=False)
 
