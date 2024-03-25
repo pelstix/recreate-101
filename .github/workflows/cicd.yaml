@@ -1,4 +1,4 @@
-name: Pelstix recreate CICD
+name: Pelstix recreates CICD
 
 on:
   push:
